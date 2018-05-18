@@ -8,7 +8,7 @@ Tapping on a link will take you to relevant materials.
             - [x] [First pet project ideas](Resources/iOS_Developer/Practical_knowledge/Getting_started/First_pet_project_ideas/RESOURCES.md)
         - [x] [`Languages`](Resources/iOS_Developer/Practical_knowledge/Languages/RESOURCES.md)
             - [x] [`Objective-C`](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/RESOURCES.md)
-                - [ ] [`Blocks`](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/Blocks/RESOURCES.md)
+                - [x] [`Blocks`](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/Blocks/RESOURCES.md)
                     - [ ] [Memory Management](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/Blocks/Memory_Management/RESOURCES.md)
                 - [ ] [KVC](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/KVC/RESOURCES.md)
                 - [ ] [KVO](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/KVO/RESOURCES.md)
